@@ -108,11 +108,11 @@ https://github.com/Akshit-Sharma349/Food-Delivery-Analytics-Dashboard/blob/main/
 
 ## Customer Analytics Dashboard
 
-(Add Screenshot Here)
+https://github.com/Akshit-Sharma349/Food-Delivery-Analytics-Dashboard/blob/main/Customer_Overview.png
 
 ## Delivery Operations Dashboard
 
-(Add Screenshot Here)
+https://github.com/Akshit-Sharma349/Food-Delivery-Analytics-Dashboard/blob/main/Delivery_Overview.png
 
 ---
 
