@@ -104,15 +104,17 @@ Key Features:
 
 ## Revenue Analytics Dashboard
 
-https://github.com/Akshit-Sharma349/Food-Delivery-Analytics-Dashboard/blob/main/Revenue_Overview.png
+![Revenue Dashboard](https://github.com/Akshit-Sharma349/Food-Delivery-Analytics-Dashboard/raw/main/Revenue_Overview.png)
+
 
 ## Customer Analytics Dashboard
 
-https://github.com/Akshit-Sharma349/Food-Delivery-Analytics-Dashboard/blob/main/Customer_Overview.png
+![Customer Dashboard](https://github.com/Akshit-Sharma349/Food-Delivery-Analytics-Dashboard/raw/main/Customer_Overview.png)
+
 
 ## Delivery Operations Dashboard
 
-https://github.com/Akshit-Sharma349/Food-Delivery-Analytics-Dashboard/blob/main/Delivery_Overview.png
+![Delivery Dashboard](https://github.com/Akshit-Sharma349/Food-Delivery-Analytics-Dashboard/raw/main/Delivery_Overview.png)
 
 ---
 
