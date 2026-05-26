@@ -104,7 +104,7 @@ Key Features:
 
 ## Revenue Analytics Dashboard
 
-(Add Screenshot Here)
+https://github.com/Akshit-Sharma349/Food-Delivery-Analytics-Dashboard/blob/main/Revenue_Overview.png
 
 ## Customer Analytics Dashboard
 
