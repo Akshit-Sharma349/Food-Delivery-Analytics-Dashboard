@@ -35,13 +35,15 @@ The main objectives of this project were:
 * Business Analytics
 * Data Visualization
 
+The analytical backend was built using SQL for KPI generation, customer analytics, cohort analysis, operational reporting, and Power BI dataset preparation.
+
 ---
 
 # Dashboard Sections
 
 ## 1. Revenue Analytics Dashboard
 
-Key Features:
+### Key Features
 
 * Total Revenue
 * Average Order Value (AOV)
@@ -54,7 +56,7 @@ Key Features:
 
 ## 2. Customer Analytics Dashboard
 
-Key Features:
+### Key Features
 
 * Total Customers
 * Repeat Customers
@@ -66,7 +68,7 @@ Key Features:
 
 ## 3. Delivery Operations Dashboard
 
-Key Features:
+### Key Features
 
 * Average Delivery Days
 * Average Food Rating
@@ -74,6 +76,17 @@ Key Features:
 * Delivery Performance by City
 * Cuisine Delivery Performance
 * Rating Distribution Analysis
+
+---
+
+# Key DAX Measures
+
+* Total Revenue
+* Average Order Value
+* Repeat Customer Rate
+* Average Delivery Rating
+* Average Delivery Days
+* Customer Revenue Contribution
 
 ---
 
@@ -98,6 +111,18 @@ Key Features:
 * Data Storytelling
 * Visualization Design
 
+
+
+---
+
+# SQL Queries
+
+The repository also contains SQL business case study queries used for data analysis and KPI generation.
+
+File Included:
+- Business_case_studies.sql
+
+
 ---
 
 # Project Screenshots
@@ -106,11 +131,13 @@ Key Features:
 
 ![Revenue Dashboard](https://github.com/Akshit-Sharma349/Food-Delivery-Analytics-Dashboard/raw/main/Revenue_Overview.png)
 
+---
 
 ## Customer Analytics Dashboard
 
 ![Customer Dashboard](https://github.com/Akshit-Sharma349/Food-Delivery-Analytics-Dashboard/raw/main/Customer_Overview.png)
 
+---
 
 ## Delivery Operations Dashboard
 
@@ -122,21 +149,23 @@ Key Features:
 
 food-delivery-analytics-dashboard/
 
+├── SQL/
+│   ├── analysis_queries.sql
+│   └── powerbi_views.sql
+│
 ├── Dashboard Screenshots/
-
-├── PowerBI Dashboard (.pbix)
-
-├── SQL Queries
-
+│   ├── Revenue_Overview.png
+│   ├── Customer_Overview.png
+│   └── Delivery_Overview.png
+│
+├── Food_Delivery_Analytics_Portfolio.pbix
+│
 └── README.md
 
 ---
 
-# Author
+# Conclusion
 
-Akshit Sharma
+This project demonstrates an end-to-end business analytics workflow involving SQL-based data preparation, KPI analysis, DAX measure creation, and interactive dashboard development using Power BI.
 
-
-
-
-
+The project combines analytical thinking, business intelligence concepts, and data visualization techniques to simulate real-world reporting used in food delivery and marketplace businesses.
